@@ -1,0 +1,15 @@
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.AssemblyInfoInputs.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.AssemblyInfo.cs
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.sourcelink.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\bin\Debug\net8.0\Ödev2.exe
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\bin\Debug\net8.0\Ödev2.deps.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\bin\Debug\net8.0\Ödev2.runtimeconfig.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\bin\Debug\net8.0\Ödev2.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\bin\Debug\net8.0\Ödev2.pdb
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\refint\Ödev2.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.pdb
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\Ödev2.genruntimeconfig.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\Ödev2\Ödev2\obj\Debug\net8.0\ref\Ödev2.dll
