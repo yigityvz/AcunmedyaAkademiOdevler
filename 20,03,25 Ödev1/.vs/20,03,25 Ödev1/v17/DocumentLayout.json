@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\constructor\\yeniaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\constructor\\yeniaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\constructor\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\constructor\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\constructor\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\constructor\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\constructor\\fiyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\constructor\\fiyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\constructor\\kap\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\constructor\\kap\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\20,03,25 \u00F6dev1\\20,03,25 \u00F6dev1\\constructor\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8477B836-3667-4341-B197-925FC1CEDA25}|20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1.csproj|solutionrelative:20,03,25 \u00F6dev1\\constructor\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YeniAraba.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\YeniAraba.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Constructor\\YeniAraba.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\YeniAraba.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Constructor\\YeniAraba.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:36:39.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pencere.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Pencere.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Constructor\\Pencere.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Pencere.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Constructor\\Pencere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:31:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kasa.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Kasa.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Constructor\\Kasa.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Kasa.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Constructor\\Kasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:29:10.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Program.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Program.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Program.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:24:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kap\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Kap\u0131.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Constructor\\Kap\u0131.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Kap\u0131.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Constructor\\Kap\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:50:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fiyat.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Fiyat.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Constructor\\Fiyat.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Fiyat.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Constructor\\Fiyat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:51:02.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Araba.cs",
+              "RelativeDocumentMoniker": "20,03,25 \u00D6dev1\\Constructor\\Araba.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\20,03,25 \u00D6dev1\\20,03,25 \u00D6dev1\\Constructor\\Araba.cs",
+              "RelativeToolTip": "20,03,25 \u00D6dev1\\Constructor\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:34:17.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
