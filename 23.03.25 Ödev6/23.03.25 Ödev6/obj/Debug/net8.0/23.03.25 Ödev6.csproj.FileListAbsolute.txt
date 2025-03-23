@@ -1,0 +1,15 @@
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\bin\Debug\net8.0\23.03.25 Ödev6.exe
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\bin\Debug\net8.0\23.03.25 Ödev6.deps.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\bin\Debug\net8.0\23.03.25 Ödev6.runtimeconfig.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\bin\Debug\net8.0\23.03.25 Ödev6.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\bin\Debug\net8.0\23.03.25 Ödev6.pdb
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.AssemblyInfoInputs.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.AssemblyInfo.cs
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.sourcelink.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\refint\23.03.25 Ödev6.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.pdb
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\23.03.25 Ödev6.genruntimeconfig.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Ödev6\23.03.25 Ödev6\obj\Debug\net8.0\ref\23.03.25 Ödev6.dll
