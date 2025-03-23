@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\23.03.25 \u00D6dev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F6545C-591F-408A-8460-5A8A60FE81C7}|23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\23.03.25 \u00F6dev3\\23.03.25 \u00F6dev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F6545C-591F-408A-8460-5A8A60FE81C7}|23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3.csproj|solutionrelative:23.03.25 \u00F6dev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F6545C-591F-408A-8460-5A8A60FE81C7}|23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3.csproj|c:\\users\\yi\u011Fit yavuz tok\\desktop\\acunmedya\\acunmedyaodevler\\23.03.25 \u00F6dev3\\23.03.25 \u00F6dev3\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F6545C-591F-408A-8460-5A8A60FE81C7}|23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3.csproj|solutionrelative:23.03.25 \u00F6dev3\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "23.03.25 \u00D6dev3\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "23.03.25 \u00D6dev3\\Kullan\u0131c\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:57:16.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3\\Program.cs",
+              "RelativeDocumentMoniker": "23.03.25 \u00D6dev3\\Program.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit Yavuz Tok\\Desktop\\Acunmedya\\AcunMedyaOdevler\\23.03.25 \u00D6dev3\\23.03.25 \u00D6dev3\\Program.cs*",
+              "RelativeToolTip": "23.03.25 \u00D6dev3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:56:50.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
