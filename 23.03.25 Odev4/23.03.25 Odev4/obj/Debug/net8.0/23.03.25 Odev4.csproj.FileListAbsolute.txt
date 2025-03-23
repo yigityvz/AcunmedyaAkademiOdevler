@@ -1,0 +1,15 @@
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\bin\Debug\net8.0\23.03.25 Odev4.exe
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\bin\Debug\net8.0\23.03.25 Odev4.deps.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\bin\Debug\net8.0\23.03.25 Odev4.runtimeconfig.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\bin\Debug\net8.0\23.03.25 Odev4.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\bin\Debug\net8.0\23.03.25 Odev4.pdb
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.AssemblyInfoInputs.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.AssemblyInfo.cs
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.sourcelink.json
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\refint\23.03.25 Odev4.dll
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.pdb
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\23.03.25 Odev4.genruntimeconfig.cache
+C:\Users\Yiğit Yavuz Tok\Desktop\Acunmedya\AcunMedyaOdevler\23.03.25 Odev4\23.03.25 Odev4\obj\Debug\net8.0\ref\23.03.25 Odev4.dll
